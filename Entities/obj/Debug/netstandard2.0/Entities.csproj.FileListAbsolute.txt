@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\C# Kurs_Sertifka\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\LENOVO\Desktop\C# Kurs_Sertifka\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\LENOVO\Desktop\C# Kurs_Sertifka\ReCapProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\LENOVO\Desktop\C# Kurs_Sertifka\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Kurs_Sertifka\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Kurs_Sertifka\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Kurs_Sertifka\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\LENOVO\Desktop\C# Kurs_Sertifka\ReCapProject\Entities\obj\Debug\netstandard2.0\Entities.pdb

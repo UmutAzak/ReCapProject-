@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+2kiYF88Kjt3dY+tVS0RAdPfhi4rCQfjJ310F+xfcDJ6FNJ2WFzVo8CDZxSE27xgWUjw6J+rZglfuA5EZzitg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\C# Kurs_Sertifka\\ReCapProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
